@@ -1,9 +1,10 @@
-
+import ToDoList from "./component/ToDoList"
+import './App.css'
 
 const App = () => {
   return (
     <div>
-      helloworld
+     <ToDoList /> 
     </div>
   )
 }

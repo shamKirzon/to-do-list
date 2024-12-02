@@ -1,0 +1,33 @@
+.to-do-list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+ .lbl-to-do-list{
+    font-size: 4rem;
+ }
+
+ .up-btn{
+    font-size: 4rem;
+ }
+
+ .task-lbl{
+    font-size: 30px;
+    padding-right: 20px;
+ }
+
+.txt-add-btn{
+    display: flex;          /* Enable Flexbox */
+    flex-direction: row;    /* Arrange items horizontally */
+    gap: 10px;              /* Add space between items */
+}
+
+ul{
+    list-style: none;
+}
+
+
+
+
